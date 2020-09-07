@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360155%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -60,8 +60,8 @@ Sunday       25 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   8 hrs 5 mins        ██████████████████░░░░░░░   71.79% 
-JavaScript               2 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   24.7% 
+Python                   8 hrs 5 mins        ██████████████████░░░░░░░   71.85% 
+JavaScript               2 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   24.63% 
 Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
 JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
