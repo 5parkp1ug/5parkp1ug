@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 210 Contributions in the Year 2020
+> 🏆 211 Contributions in the Year 2020
  > 
 > 📦 56.4 kB Used in Github's Storage 
  > 
@@ -60,7 +60,7 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       █████████████████████████   99.99% 
+Python                   2 hrs 13 mins       █████████████████████████   99.99% 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
@@ -77,7 +77,7 @@ JavaScript               6 repos             ███████████�
 
 **Timeline**
 
-![Chart not found](https://github.com/5parkp1ug/5parkp1ug/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
