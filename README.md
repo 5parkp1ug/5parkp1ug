@@ -27,9 +27,9 @@ Here are some ideas to get you started:
  > 
 > 💼 Opted to Hire
  > 
-> 📜 22 Public Repositories
+> 📜 22 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+22 Private Repository 
  > 
 **I'm a Night 🦉** 
 
