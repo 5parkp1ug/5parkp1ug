@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360155%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.9%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 211 Contributions in the Year 2020
+> 🏆 212 Contributions in the Year 2020
  > 
 > 📦 56.4 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 22 Public Repositories 
  > 
@@ -60,10 +60,10 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 15 mins       ██████████████████████░░░   91.14% 
-Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
-YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75% 
+Python                   2 hrs 50 mins       ███████████████████████░░   92.81% 
+Text                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.19% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
 ```
