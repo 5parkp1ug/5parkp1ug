@@ -60,7 +60,7 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 17 mins        █████████████████████████   100.0%
 
 ```
 
