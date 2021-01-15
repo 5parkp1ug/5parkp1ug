@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 1 Contributions in the Year 2021
  > 
 > 📦 56.5 kB Used in Github's Storage 
  > 
@@ -60,7 +60,7 @@ Sunday       25 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 hrs 24 mins       █████████████████████████   100.0%
+Python                   2 hrs 5 mins        █████████████████████████   100.0%
 
 ```
 
