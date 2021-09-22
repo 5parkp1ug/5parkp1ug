@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111397%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 129 Contributions in the Year 2021
  > 
-> 📦 59.3 kB Used in Github's Storage 
+> 📦 59.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,11 +60,11 @@ Sunday       17 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 7 mins        ████████████████░░░░░░░░░   67.38% 
-Python                   1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-MDX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.68% 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06%
+JavaScript               4 hrs 35 mins       ████████████████░░░░░░░░░   64.12% 
+Python                   1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   25.22% 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0% 
+MDX                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.99% 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
 
 ```
 
@@ -83,5 +83,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
