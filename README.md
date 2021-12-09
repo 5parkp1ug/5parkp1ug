@@ -60,8 +60,7 @@ Sunday       17 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████████   100.0% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 ```
 
@@ -80,5 +79,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/12/2021
+ Last Updated on 09/12/2021
 <!--END_SECTION:waka-->
