@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 162 Contributions in the Year 2021
+> 🏆 164 Contributions in the Year 2021
  > 
 > 📦 59.6 kB Used in GitHub's Storage 
  > 
@@ -79,5 +79,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/12/2021
+ Last Updated on 17/12/2021
 <!--END_SECTION:waka-->
