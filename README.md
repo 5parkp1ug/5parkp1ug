@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 41 Contributions in the Year 2022
+> 🏆 42 Contributions in the Year 2022
  > 
 > 📦 59.7 kB Used in GitHub's Storage 
  > 
@@ -60,7 +60,7 @@ Sunday       17 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 5 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -79,5 +79,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2022 14:34:03 UTC
+ Last Updated on 06/02/2022 14:33:53 UTC
 <!--END_SECTION:waka-->
