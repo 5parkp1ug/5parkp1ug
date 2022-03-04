@@ -60,10 +60,7 @@ Sunday       17 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     21 mins             ███████████████░░░░░░░░░░   61.52% 
-XML                      12 mins             █████████░░░░░░░░░░░░░░░░   35.75% 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
-HTTP Request             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,5 +80,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/03/2022 14:35:31 UTC
+ Last Updated on 04/03/2022 14:35:05 UTC
 <!--END_SECTION:waka-->
