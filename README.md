@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2034%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-175%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 349 Contributions in the Year 2022
+> 🏆 350 Contributions in the Year 2022
  > 
 > 📦 64.9 kB Used in GitHub's Storage 
  > 
@@ -33,6 +33,43 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.97% 
+🌆 Daytime    184 commits    ███████████████░░░░░░░░░░   60.13% 
+🌃 Evening    64 commits     █████░░░░░░░░░░░░░░░░░░░░   20.92% 
+🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       63 commits     █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+Tuesday      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
+Wednesday    62 commits     █████░░░░░░░░░░░░░░░░░░░░   20.26% 
+Thursday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.63% 
+Friday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
+Saturday     20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.54% 
+Sunday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.21%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   7 hrs 26 mins       ████████████████░░░░░░░░░   64.95% 
+JavaScript               2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92% 
+YAML                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.18% 
+Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.24% 
+Dockerfile               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.43%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -49,5 +86,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/09/2022 14:37:46 UTC
+ Last Updated on 05/09/2022 14:40:52 UTC
 <!--END_SECTION:waka-->
