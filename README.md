@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 384 Contributions in the Year 2022
+> 🏆 386 Contributions in the Year 2022
  > 
 > 📦 65.0 kB Used in GitHub's Storage 
  > 
@@ -62,9 +62,7 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 46 mins        ████████████████████░░░░░   80.0% 
-YAML                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   19.39% 
-requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
+Python                   1 hr 13 mins        █████████████████████████   100.0%
 
 ```
 
@@ -84,5 +82,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2022 14:48:55 UTC
+ Last Updated on 22/09/2022 14:48:11 UTC
 <!--END_SECTION:waka-->
