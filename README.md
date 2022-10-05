@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-483%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-484%20hrs%2047%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-176%20Thousand%20lines%20of%20code-blue)
 
@@ -62,11 +62,11 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   4 hrs 46 mins       ██████████████████████░░░   90.49% 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.15% 
-JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18% 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
+Python                   4 hrs 38 mins       ██████████████████████░░░   90.33% 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.28% 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.21% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59%
 
 ```
 
@@ -86,5 +86,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 14:59:39 UTC
+ Last Updated on 05/10/2022 14:56:01 UTC
 <!--END_SECTION:waka-->
