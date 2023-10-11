@@ -1,90 +1,42 @@
-### Abhishek Here! 👋
-![](https://komarev.com/ghpvc/?username=5parkp1ug&color=green)
+<h1 align="center">Hi 👋, I'm Abhishek Shandilya</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**5parkp1ug/5parkp1ug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=5parkp1ug&label=Profile%20views&color=0e75b6&style=flat" alt="5parkp1ug" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=5parkp1ug" alt="5parkp1ug" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [My Blog](https://github.com/5parkp1ug/shandilya.me)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2024%20mins-blue)
+- 🌱 I’m currently learning **Sprint Boot & Kafka**
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-180%20Thousand%20lines%20of%20code-blue)
+- 👯 I’m looking to collaborate on [Planck](https://github.com/5parkp1ug/Planck)
 
-**🐱 My GitHub Data** 
+- 👨‍💻 All of my projects are available at [https://abhishekshandilya.com/](https://abhishekshandilya.com/)
 
-> 🏆 475 Contributions in the Year 2022
- > 
-> 📦 65.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 26 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm an Early 🐤** 
+- 📝 I regularly write articles on [https://shandilya.me/](https://shandilya.me/)
 
-```text
-🌞 Morning    66 commits     █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-🌆 Daytime    191 commits    ███████████████░░░░░░░░░░   59.5% 
-🌃 Evening    61 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+- 💬 Ask me about **Python, Django, GCP**
 
-```
-📅 **I'm Most Productive on Monday** 
+- 📫 How to reach me **abhishek@shandilya.me**
 
-```text
-Monday       66 commits     █████░░░░░░░░░░░░░░░░░░░░   20.56% 
-Tuesday      44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Wednesday    65 commits     █████░░░░░░░░░░░░░░░░░░░░   20.25% 
-Thursday     54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-Friday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.26% 
-Saturday     25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
-Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.61%
+- 📄 Know about my experiences [https://abhishekshandilya.com/resume.pdf](https://abhishekshandilya.com/resume.pdf)
 
-```
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/5parkp1ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="5parkp1ug" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/5parkp1ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="5parkp1ug" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7693825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7693825" height="30" width="40" /></a>
+<a href="https://fb.com/5parkp1ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="5parkp1ug" height="30" width="40" /></a>
+<a href="https://instagram.com/_5parkp1ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_5parkp1ug" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/5parkp1ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="5parkp1ug" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-📊 **This Week I Spent My Time On** 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/5parkp1ug"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="5parkp1ug" /></a></p><br><br>
 
-```text
-⌚︎ Time Zone: Asia/Kolkata
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=5parkp1ug&show_icons=true&locale=en&layout=compact" alt="5parkp1ug" /></p>
 
-💬 Programming Languages: 
-Python                   1 hr 37 mins        █████████████████░░░░░░░░   70.57% 
-YAML                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77% 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-Text                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   10 repos            ██████████████░░░░░░░░░░░   55.56% 
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/5parkp1ug/5parkp1ug/master/charts/bar_graph.png) 
-
-
- Last Updated on 09/11/2022 14:43:57 UTC
-<!--END_SECTION:waka-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=5parkp1ug&" alt="5parkp1ug" /></p>
